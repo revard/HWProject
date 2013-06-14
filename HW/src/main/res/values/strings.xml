@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >HW
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="question" >Устраивает ли вас зарплата?
+    </string>
+    <string name="title" >Опрос от UCS:
+    </string>
+    <string name="answer" >Да
+    </string>
+    <string name="bottom" >Нам важно Ваше мнение.
+    </string>
+</resources>
